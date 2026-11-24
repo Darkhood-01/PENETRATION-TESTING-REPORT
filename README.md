@@ -380,13 +380,13 @@ Content-Type: text/html; charset=UTF-8
                                         ______
                                      /          \
                                    (    Woof!    )
-                                     \   ____  /              				          )
-                         , ,                           			    			        )   (_
-            . - .     -                          _______         	            (  |__|
+                                     \   ____  /              				      )
+                         , ,                           			  		        )  (_
+            . - .     -                          _______         	          (  |__|
           ( ) ` ` ;                          |==|_______)                    . ) |__|
            /   ('                                 / |  \           	         (   |__|
       (  /       )                              /   |    \                     . |__|
-       \(_) _   ) )                           /     |      \        		         |__|
+       \(_) _   ) )                           /     |      \        		     |__|
   
                     ~ WAFW00F : v2.4.2 ~
     The Web Application Firewall Fingerprinting Toolkit
