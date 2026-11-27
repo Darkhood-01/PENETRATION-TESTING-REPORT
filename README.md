@@ -28,7 +28,7 @@
 
 | pentester name (cybersecurity professional:Emmanuel Success Ochuko | ⚙️ Configuration   |
 | ------------------------------------------------------------------ | ------------------  |
-|  🌐 program                                                        |Batch B082-Networwalks     |
+|  🌐 program                                                        |Batch B084D-Networwalks     |
 | Modules completed                                                  | W2_PM (Multiple Kali Tools) W2-PM5 (Zenmap scanning)  |
 | 🌍 Date                                                           |11/11/2026  |
 | 🧰 Hypervisor      | VirtualBox 7.2     |
@@ -448,3 +448,12 @@ Content-Type: text/html; charset=UTF-8
 2026-11-24T15:52:15.297111+0000 INFO 8 Records Found
 2026-11-24T15:52:15.298221+0000 INFO Completed enumeration for domain: networkwalks.com
 
+---
+
+# 👤 Author
+
+**Emmanuel success ochuko**\
+Cybersecurity intern B084D
+
+LinkedIn: [(https://www.linkedin.com/in/emmanuel-richard-5008a1406/)](https://www.linkedin.com/in/emmanuel-richard-5008a1406/)
+---
