@@ -69,17 +69,38 @@ dnsrecon	Enumerate all DNS records (NS, MX, SPF, TXT, SRV).
 Zenmap (Nmap GUI)	Scan the local subnet to find live hosts, IPs and MAC addresses.
 Windows CMD	Local IP and MAC address identification
 
+
+| ⚙️Tools | purpose   |
+| ------------------ | ------------------  |
+|  🌐 <img src="https://img.shields.io/badge/> Kali%20Linux.-E87500?style=circle&labelColor=000000&logo=kalilinux&logoColor=white" /> & windows                                              |Operating systems used for reconnaissance activitieo    |
+| WHOIS                                              |Find domain registration details (owner, dates, name servers). |
+| Whatweb                                            |	Fingerprint web technologies (server, CMS, plugins, IP).  |
+| nslookup                                            |Resolve the domain name to its IP address using DNS. |
+| curl -I   | 	Read the HTTP response headers of the website. |
+|wafw00f       | 	Detect whether a Web Application Firewall protects the site.         |
+| dnsrecon   |Enumerate all DNS records (NS, MX, SPF, TXT, SRV).
+| Zenmap (Nmap GUI) |Scan the local subnet to find live hosts, IPs and MAC addresses.   |
+| Windows    | CMD	Local IP and MAC address identification |
+
+
 ---
 
  ## 4. Activities Performed
-4.1 Footprinting & Reconnaissance
+ ---
+ 4.1 Footprinting & Reconnaissance
 
-I performed reconnaissance against the networkwalks.com domain using six Kali Linux tools: WHOIS, WhatWeb, Nslookup, Curl, Wafw00f and DNSRecon. Each tool was used to collect a different type of information about the target.
+ I performed reconnaissance against the networkwalks.com domain using six Kali Linux tools: WHOIS, WhatWeb, Nslookup, Curl, Wafw00f and DNSRecon. Each tool was used to collect a different type of information about the target.
+
 First, I used WHOIS to obtain publicly available domain registration information and identify the domain’s name servers. The results provided information about the domain registration and hosting infrastructure.
+
 I then used WhatWeb to identify technologies used by the website. The results identified WordPress 7.0.4 and WP Download Manager 3.3.58, along with other information exposed by the website.
+
 Using Nslookup, I resolved the domain name to its IP address. The provided result identified 192.232.216.135.
+
 I used Curl with the -I option to inspect the HTTP response headers. This provided additional information about the web application and exposed the WordPress REST API endpoint /wp-json/.
+
 Next, I used Wafw00f to determine whether a Web Application Firewall was protecting the website. The result identified ModSecurity (SpiderLabs).
+
 Finally, I used DNSRecon to enumerate DNS records. The results provided information relating to name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
 4.2 Network Scanning with Zenmap
