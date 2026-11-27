@@ -173,7 +173,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 
 
-8. Evidences collected
+## 8. Evidences collected
 
   ┌──(darkhood_1㉿Darkhood)-[~]
 └─$ whois networkwalks.com
@@ -312,7 +312,7 @@ at any time without notice.
 
 
 
-
+**  
 
 
 
@@ -334,7 +334,7 @@ https://networkwalks.com/ [200 OK] Apache, Bootstrap[7.1.5], Country[UNITED STAT
  
 
 
-
+** 
 
 
 ┌──(darkhood_1㉿Darkhood)-[~]
@@ -362,7 +362,7 @@ Address: 192.232.216.135
 
 
 
-
+** 
 
 
 ┌──(darkhood_1㉿Darkhood)-[~]
@@ -380,7 +380,7 @@ Content-Type: text/html; charset=UTF-8
 
 
  
-
+** 
 
 
 
@@ -407,7 +407,7 @@ Content-Type: text/html; charset=UTF-8
 [~] Number of requests: 2
                                         
  
-
+** 
 
                                                                                
 ┌──(darkhood_1㉿Darkhood)-[~]
