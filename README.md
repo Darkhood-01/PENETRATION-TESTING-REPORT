@@ -24,26 +24,22 @@
 ------------------------------------------------------
 
 
-**
-pentester Name
-|(Cybersecurity Professional)     |	Emmanuel Success Ochuko|
---------------------------------------------------------
-|Program                          |/Batch	B082-Networkwalks|
-----------------------------------------------------------
-|Date                             |11 november 2026
--------------------------------------------------------------------------------------------
-|Modules completed	              |W2-PM1 (Multiple Kali Tools) W2-PM5 (Zenmap Scanning)
--------------------------------------------------------------------------------------------
-|Client/Target	                  | 1. Networkwalks (secured written permission already)
-                                  | 2. My own local LAN Network
-------------------------------------------------------------------------------------------                             
-| Permission secured from client? |	yes
------------------------------------------------------------------------------------------
-  Phases covered	                | Phase 1: Reconnaissance & Footprinting
-                                  | Phase 2: Scanning & Network Discovery
-                                  | Phase 3-5: In Progress
-------------------------------------------------------------------------------------------
 
+
+| pentester name (cybersecurity professional:Emmanuel Success Ochuko | ⚙️ Configuration   |
+| ------------------------------------------------------------------ | ------------------  |
+|  🌐 program                                                        |Batch B082-Networwalks     |
+| Modules completed                                                  | W2_PM (Multiple Kali Tools) W2-PM5 (Zenmap scanning)  |
+| 🌍 Date                                                           |11/11/2026  |
+| 🧰 Hypervisor      | VirtualBox 7.2     |
+| 🐉 Security OS     | Kali Linux 2026.2  |
+| 🧠 Kali RAM        | 2048 MB            |
+| 🌐 Client/Target   |1. Networkwalks (secured written permission already) 
+|                    |2. My Own Local LAN Network 
+| 📡 Permission Secured from client? | Yes        |
+| 🐧 Phase Covered| Phase 1: Reconnaissance & Footprinting        |
+|                     | Phase 2: Scanning & Network Ddisovery           |
+|                     | Phase 3-5: In progress            |
 
 
 ** 
@@ -59,7 +55,7 @@ All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenm
 ## 3. Tools Used
 The table below lists each tool used in this report and its purpose.
 Tool	Purpose
-Kali Linux & Windows	Operating systems used for reconnaissance activities
+Kali Linux & Windows	Operating systems used for reconnaissance activitieo
 WHOIS	Find domain registration details (owner, dates, name servers).
 whatweb	Fingerprint web technologies (server, CMS, plugins, IP).
 nslookup	Resolve the domain name to its IP address using DNS.
